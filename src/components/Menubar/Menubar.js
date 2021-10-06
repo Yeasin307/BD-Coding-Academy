@@ -6,7 +6,7 @@ const Menubar = () => {
     return (
         <div>
             <div className="menu-container ">
-                <ul className="d-flex justify-content-center">
+                <ul className="d-flex">
                     <Link to="/home" className="items">
                         <li>Home</li>
                     </Link>

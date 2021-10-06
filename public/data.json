@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Full Stack Development",
+        "instructor": "Ajwad Akhil",
+        "img": "https://bohubrihi.com/wp-content/uploads/2020/07/Asset-7@4x-8-500x375.png",
+        "fees": 8000
+    },
+    {
+        "title": "Front End Web Development",
+        "instructor": "Akhabar Khan",
+        "img": "https://bohubrihi.com/wp-content/uploads/2021/06/Front-End-Web-Development-Career-Track-Bohubrihi.jpg",
+        "fees": 5000
+    },
+    {
+        "title": "Back-end Web Development with Python",
+        "instructor": "Gias Uddin",
+        "img": "https://bohubrihi.com/wp-content/uploads/2021/06/back-end-web-development-with-python-bohubrihi-career-track.png",
+        "fees": 6000
+    },
+    {
+        "title": "Back-end Web Development with JavaScript",
+        "instructor": "Sakib Hossain",
+        "img": "https://bohubrihi.com/wp-content/uploads/2021/06/Back-End-Web-Development-with-JavaScript.jpg",
+        "fees": 5000
+    }
+]
