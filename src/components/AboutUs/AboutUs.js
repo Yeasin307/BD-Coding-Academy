@@ -2,14 +2,14 @@ import React from 'react';
 import Footer from '../Footer/Footer';
 import Header from '../Header/Header';
 
-const Error = () => {
+const AboutUs = () => {
     return (
         <div>
             <Header></Header>
-            <h1 className="text-center text-danger fw-semi-bold my-5 py-5">Can't Found Error 404</h1>
+            <h3>About Us</h3>
             <Footer></Footer>
         </div>
     );
 };
 
-export default Error;
+export default AboutUs;

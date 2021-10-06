@@ -1,15 +1,10 @@
-import React, { useContext, useEffect } from 'react';
+import React, { useContext } from 'react';
 import { dataContext } from '../../App';
 import Course from '../Course/Course';
 
 const MainSection = () => {
+    // eslint-disable-next-line no-unused-vars
     const [data, setData] = useContext(dataContext);
-    useEffect(() => {
-        fetch('./data.json')
-            .then(res => res.json())
-            .then(data => setData(data));
-        // eslint-disable-next-line react-hooks/exhaustive-deps
-    }, [])
     return (
         <div>
             <h1 className="text-center text-primary fw-bold my-5">Top Courses</h1>
