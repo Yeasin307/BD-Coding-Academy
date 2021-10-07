@@ -5,7 +5,7 @@ import { faFacebook, faGithub, faYoutube } from '@fortawesome/free-brands-svg-ic
 
 const Footer = () => {
     return (
-        <div className="bg-secondary bg-gradient bg-opacity-50">
+        <div className="bg-secondary bg-gradient bg-opacity-50 pb-1">
             <div className="d-flex justify-content-center pt-5">
                 <h3>Join with us : </h3>
                 <a href="http://facebook.com" target="_blank" rel="noopener noreferrer">
