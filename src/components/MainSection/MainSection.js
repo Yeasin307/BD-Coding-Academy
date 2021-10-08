@@ -7,7 +7,7 @@ const MainSection = () => {
     const [data, setData] = useContext(dataContext);
     return (
         <div>
-            <h1 className="text-center text-primary fw-bold my-5">Top Courses</h1>
+            <h1 className="text-center text-primary fw-bold mb-5">Top Courses</h1>
             <div className="container">
                 <div className="row gx-3">
                     {

@@ -1,6 +1,6 @@
 [
     {
-        "title": "Full Stack Development",
+        "title": "Full Stack Web Development",
         "img": "https://bohubrihi.com/wp-content/uploads/2020/07/Asset-7@4x-8-500x375.png",
         "fees": 8000
     },
@@ -12,7 +12,7 @@
     {
         "title": "Back-end Web Development with Python",
         "img": "https://bohubrihi.com/wp-content/uploads/2021/06/back-end-web-development-with-python-bohubrihi-career-track.png",
-        "fees": 6000
+        "fees": 5000
     },
     {
         "title": "Back-end Web Development with JavaScript",
@@ -20,73 +20,73 @@
         "fees": 5000
     },
     {
-        "title": "Back-end Web Development with JavaScript",
+        "title": "Back-end Web Development with Laravel",
         "img": "https://bohubrihi.com/wp-content/uploads/2021/04/Laravel.jpg",
-        "fees": 5000
+        "fees": 3000
     },
     {
-        "title": "Back-end Web Development with JavaScript",
+        "title": "Advanced Java",
         "img": "https://bohubrihi.com/wp-content/uploads/2020/10/42-500x375.png",
-        "fees": 5000
+        "fees": 3000
     },
     {
-        "title": "Back-end Web Development with JavaScript",
+        "title": "Advanced PHP",
         "img": "https://bohubrihi.com/wp-content/uploads/2020/12/PHP-1.png",
-        "fees": 5000
+        "fees": 3000
     },
     {
-        "title": "Back-end Web Development with JavaScript",
+        "title": "Back-end Web Development with NodeJS",
         "img": "https://bohubrihi.com/wp-content/uploads/2021/04/NodeJS-with-Simanta-Paul.jpg",
-        "fees": 5000
+        "fees": 2000
     },
     {
-        "title": "Back-end Web Development with JavaScript",
+        "title": "Front End Web Development with React JS & Redux",
         "img": "https://bohubrihi.com/wp-content/uploads/2020/08/31-500x375.png",
-        "fees": 5000
+        "fees": 3000
     },
     {
-        "title": "Back-end Web Development with JavaScript",
+        "title": "Android App Development",
         "img": "https://bohubrihi.com/wp-content/uploads/2020/08/5-500x375.png",
-        "fees": 5000
+        "fees": 8000
     },
     {
-        "title": "Back-end Web Development with JavaScript",
+        "title": "Basic HTML , CSS & Bootstrap",
         "img": "https://bohubrihi.com/wp-content/uploads/2020/08/8-500x375.png",
-        "fees": 5000
+        "fees": 3000
     },
     {
-        "title": "Back-end Web Development with JavaScript",
+        "title": "Back-end Web Development with Django",
         "img": "https://bohubrihi.com/wp-content/uploads/2020/08/18-500x375.png",
-        "fees": 5000
+        "fees": 3000
     },
     {
-        "title": "Back-end Web Development with JavaScript",
+        "title": "Advanced Python",
         "img": "https://bohubrihi.com/wp-content/uploads/2020/08/24-500x375.png",
-        "fees": 5000
+        "fees": 4000
     },
     {
-        "title": "Back-end Web Development with JavaScript",
+        "title": "Advanced Woo-Commerce",
         "img": "https://bohubrihi.com/wp-content/uploads/2020/08/28-500x375.png",
         "fees": 5000
     },
     {
-        "title": "Back-end Web Development with JavaScript",
+        "title": "Advanced Word-Press",
         "img": "https://bohubrihi.com/wp-content/uploads/2018/02/29a-500x375.png",
         "fees": 5000
     },
     {
-        "title": "Back-end Web Development with JavaScript",
+        "title": "Beginner Database",
         "img": "https://bohubrihi.com/wp-content/uploads/2021/06/Database@4x-8.png",
-        "fees": 5000
+        "fees": 4000
     },
     {
-        "title": "Back-end Web Development with JavaScript",
+        "title": "Data Structures & Algorithms",
         "img": "https://bohubrihi.com/wp-content/uploads/2020/09/38-500x375.png",
         "fees": 5000
     },
     {
-        "title": "Back-end Web Development with JavaScript",
+        "title": "Beginner Java",
         "img": "https://bohubrihi.com/wp-content/uploads/2020/08/15-500x375.png",
-        "fees": 5000
+        "fees": 2000
     }
 ]
