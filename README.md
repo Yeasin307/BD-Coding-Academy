@@ -1,8 +1,8 @@
-## BD-Coding-Academy project
+## BD-Coding-Academy Project
 
 ### Live site link : [https://bd-coding-academy.netlify.app](https://bd-coding-academy.netlify.app/)
 
 ## Features of this project
-* `Using Bootstrap as a CSS framework.`
-* `Using Fontawesome Icon.`
+* Using Bootstrap as a CSS framework.
+* #### `Using Fontawesome Icon.`
 * `This site is deploy with Netlify.`
