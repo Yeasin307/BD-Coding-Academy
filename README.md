@@ -4,7 +4,8 @@
 
 ## Features of this project
 
-- `_Using Bootstrap as a CSS framework._`
-- ** `Using Fontawesome Icon.` **
-- _ `This site is deploy with Netlify.` _
-- _ `This site is deploy with Netlify.`_
+- `Using Bootstrap as a CSS framework.`
+- `Using Fontawesome Icon.`
+- `This site is deploy with Netlify.`
+- `**This site is deploy with Netlify.**`
+- **This site is deploy with Netlify.**
