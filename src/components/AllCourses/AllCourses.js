@@ -1,12 +1,13 @@
 import React, { useContext } from 'react';
-import { dataContext } from '../../App';
+import { DataContext } from '../../App';
 import DisplayAllCourses from '../DisplayAllCourses/DisplayAllCourses';
 import Footer from '../Footer/Footer';
 import Header from '../Header/Header';
 
 const AllCourses = () => {
-    // eslint-disable-next-line no-unused-vars
-    const [data, setData] = useContext(dataContext);
+
+    const data = useContext(DataContext);
+
     return (
         <div>
             <Header></Header>

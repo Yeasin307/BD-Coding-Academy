@@ -1,0 +1,17 @@
+textarea{
+ height: 7.5em;
+ width: 40em;
+}
+
+@media only screen and (max-width:1024px) {
+    textarea{
+        height: 5em;
+        width: 24em;
+    }
+}
+
+@media only screen and (max-width:668px) {
+    textarea{
+        width: 13em;
+    }
+}

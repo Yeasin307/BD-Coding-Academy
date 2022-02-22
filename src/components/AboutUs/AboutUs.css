@@ -1,0 +1,9 @@
+.future-sec{
+    width: 75%;
+}
+
+@media only screen and (max-width:668px) {
+    .future-sec{
+        width: 88%;
+    }
+}

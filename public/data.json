@@ -1,10 +1,5 @@
 [
     {
-        "title": "Full Stack Web Development",
-        "img": "https://bohubrihi.com/wp-content/uploads/2020/07/Asset-7@4x-8-500x375.png",
-        "fees": 8000
-    },
-    {
         "title": "Front End Web Development",
         "img": "https://bohubrihi.com/wp-content/uploads/2021/06/Front-End-Web-Development-Career-Track-Bohubrihi.jpg",
         "fees": 5000
@@ -18,6 +13,11 @@
         "title": "Back-end Web Development with JavaScript",
         "img": "https://bohubrihi.com/wp-content/uploads/2021/06/Back-End-Web-Development-with-JavaScript.jpg",
         "fees": 5000
+    },
+    {
+        "title": "Full Stack Web Development",
+        "img": "https://bohubrihi.com/wp-content/uploads/2020/07/Asset-7@4x-8-500x375.png",
+        "fees": 8000
     },
     {
         "title": "Back-end Web Development with Laravel",

@@ -1,10 +1,11 @@
 import React, { useContext } from 'react';
-import { dataContext } from '../../App';
+import { DataContext } from '../../App';
 import Course from '../Course/Course';
 
 const MainSection = () => {
-    // eslint-disable-next-line no-unused-vars
-    const [data, setData] = useContext(dataContext);
+
+    const data = useContext(DataContext);
+
     return (
         <div>
             <h1 className="text-center text-primary fw-bold mb-5">Top Courses</h1>

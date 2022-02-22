@@ -6,22 +6,25 @@ import './App.css';
 import Home from "./components/Home/Home";
 import { createContext, useEffect, useState } from "react";
 import AllCourses from "./components/AllCourses/AllCourses";
-import Error from "./components/Error/Error";
+import NotFound from "./components/NotFound/NotFound";
 import AboutUs from "./components/AboutUs/AboutUs";
 import ContactUs from "./components/ContactUs/ContactUs";
 
-export const dataContext = createContext();
+export const DataContext = createContext();
 
 function App() {
+
   const [data, setData] = useState([]);
+
   useEffect(() => {
     fetch('./data.json')
       .then(res => res.json())
       .then(data => setData(data));
   }, [])
+
   return (
     <div className="bg-success bg-gradient bg-opacity-10">
-      <dataContext.Provider value={[data, setData]}>
+      <DataContext.Provider value={data}>
         <Router>
           <Switch>
             <Route exact path="/">
@@ -40,11 +43,11 @@ function App() {
               <ContactUs></ContactUs>
             </Route>
             <Route path="*">
-              <Error></Error>
+              <NotFound></NotFound>
             </Route>
           </Switch>
         </Router>
-      </dataContext.Provider>
+      </DataContext.Provider>
     </div>
   );
 }
