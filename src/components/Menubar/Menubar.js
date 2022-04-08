@@ -5,7 +5,7 @@ import './Menubar.css';
 const Menubar = () => {
     return (
         <div>
-            <h2 className='header d-flex justify-content-center'>Welcome to BD Online Coding Academy</h2>
+            <h2 className='header d-flex justify-content-center'>Welcome to BD Coding Academy</h2>
             <ul>
                 <Link to="/home" className="items">
                     <li>Home</li>

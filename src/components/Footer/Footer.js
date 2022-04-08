@@ -18,7 +18,7 @@ const Footer = () => {
                     <FontAwesomeIcon icon={faYoutube} size="2x" className="text-danger mx-3" />
                 </a>
             </div>
-            <p className="text-center py-4">Copyright © 2021 BD Online Academy</p>
+            <p className="text-center py-4">Copyright © 2021 BD Coding Academy</p>
         </div>
     );
 };
